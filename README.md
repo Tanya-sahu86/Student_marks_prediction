@@ -22,22 +22,22 @@ Language: Python 🐍
 
 Libraries:
 
-Pandas
+1) Pandas
 
-NumPy
+2) NumPy
 
-Scikit-learn
+3) Scikit-learn
 
-Matplotlib / Seaborn (optional for visualization)
+4) Matplotlib / Seaborn (optional for visualization)
 
 📊 How It Works
 
-Load dataset from student.csv
+-- Load dataset from student.csv
 
-Preprocess the data (cleaning, encoding, normalization)
+-- Preprocess the data (cleaning, encoding, normalization)
 
-Train a machine learning model
+-- Train a machine learning model
 
-Evaluate performance
+-- Evaluate performance
 
-Predict student marks
+-- Predict student marks
